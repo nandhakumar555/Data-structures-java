@@ -1,0 +1,14 @@
+
+
+Hash table
+oru funtion a array la store pandrathuklu peru tha hash table
+  
+key values
+array maxsize[10];
+table size=10;
+  key value/10
+  hask(char*keys,int,tablesize){
+    int hash value= ;
+while(*key!="0")
+hash val+=cb*key++;
+
